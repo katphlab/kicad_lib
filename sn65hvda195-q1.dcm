@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65HVDA195-Q1
+D High-Speed CAN Transceiver, 1Mbps, 5V supply, SOIC8 package
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+#End Doc Library
