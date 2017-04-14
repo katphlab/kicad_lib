@@ -30,4 +30,9 @@
   (pad 1 smd rect (at -1.5 -1) (size 0.8 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.5 0) (size 0.8 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.5 -0.5) (size 0.8 0.3) (layers F.Cu F.Paste F.Mask))
+  (model "../../../../../mnt/localC/Users/katph/Desktop/git/levin/Hardware/libraries/3d files/LGA-16.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )
